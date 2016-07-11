@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  message: MyText
+  sender: 1
+  receiver: 1
+  time: 2016-07-11 14:01:51
+  textserye_id: 
+
+two:
+  message: MyText
+  sender: 1
+  receiver: 1
+  time: 2016-07-11 14:01:51
+  textserye_id: 
